@@ -37,7 +37,7 @@ Je vous propose ses services de
 ![web-3967926_1280](https://user-images.githubusercontent.com/86242048/123335398-6543c580-d512-11eb-80bf-b44f284fbdef.jpg)
 
 ## Exemples de services proposés 
-Il n'y a rien de flou dans le métier de rédacteur web : le travail consiste à rédiger tout texte - de tous les formats - que l'internaute peut être amené à lire sur un site, un blog, une boutique, application plateforme
+Il n'y a rien de flou dans le métier de rédacteur web : le travail consiste à rédiger tout texte - de tous les formats - que l'internaute peut être amené à lire sur un site, un blog, une boutique, une application ou n'importe quelle autre plateforme web. 
 
 - **Rédaction d'articles blog**
 - **Rédaction de fiches produits**
