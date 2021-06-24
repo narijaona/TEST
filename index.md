@@ -41,7 +41,7 @@ Il n'y a rien de flou dans le métier de rédacteur web : le travail consiste à
 
 - **Rédaction d'articles blog**
 - **Rédaction de fiches produits**
-- **Rédaction de manuels, livres blancs, infographies, sous-titres vidéo, etc 
+- **Rédaction de manuels, livres blancs, infographies, sous-titres vidéo, etc**
 - **Gestion d'une campagne de newsletters**
 - **Communiqués de presse**
 - **Adwords et Réseaux sociaux**
