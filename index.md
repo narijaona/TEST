@@ -19,8 +19,10 @@ Fort de plus de 10 ans d'expérience dans le domaine de la création de contenu 
 - s'adapte facilement et rapidement à tout secteur d'activité
 - rédige aisément dans tous les formats de texte 
 
+![Image](src)
+![Image]()
 
-## Exemples de services proposés 
+###Exemples de services proposés 
 Il n'y a rien de flou dans le métier de rédacteur web : le travail consiste à rédiger tout texte - de tous les formats - que l'internaute peut être amené à lire sur un site, un blog, une boutique, application plateforme
 
 - **Rédaction d'articles blog**
@@ -45,6 +47,6 @@ Relecture | 20$/1500mots
 Community management | Me contacter
 Audit SEO et plan de communication | Me contacter
 
-[Link](url) and ![Image](src)
+
 ```
 
